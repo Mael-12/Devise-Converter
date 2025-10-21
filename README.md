@@ -13,8 +13,8 @@ Ce projet est une application graphique simple permettant de convertir des monta
 
 1. Clone le repo :
 ```bash
-git clone https://github.com/Mael-12/DeviseConverter
-cd ton-repo/devise-converter
+git clone https://github.com/Mael-12/Devise-Converter
+cd Devise-Converter/DeviseConverter
 ```
 2.Installer les dependances:
 ```bash
