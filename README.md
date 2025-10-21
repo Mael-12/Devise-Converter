@@ -23,7 +23,7 @@ pip install requests
 ### 5. Utilisation
 Comment lancer et utiliser ton app :
 ```bash
-python devise_converter.py
+python DeviseConverter.py
 ```
 - Saisis un montant
 - Choisis les devises source et cible
@@ -34,7 +34,7 @@ python devise_converter.py
 Ce projet utilise [ExchangeRate-API](https://www.exchangerate-api.com/) avec une clé gratuite.
 
 ## 📁 Fichiers
-- `devise_converter.py` : code source
+- `DeviseConverter.py` : code source
 - `requirements.txt` : dépendances
 
 ## 🧠 Auteur
